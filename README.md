@@ -1,9 +1,11 @@
 # Tableau_Projects
 
-# Tableau 프로젝트 작업물
+# **Tableau 프로젝트 작업물**
 ## 기간: 2019~2021
+[https://public.tableau.com/app/profile/.41053254]
 
 ## 1. Boxoffice 2018
+[https://public.tableau.com/app/profile/.41053254/viz/BOXOFFICE2018/1_2]
 ### Sheet1 : 2018년의 최고 흥행작 5편과 흥행 실패작 5편을 관객수로 선정해 비교분석.
 * 비교 지표 : 일별관객수, 매출액 집계, 일별 복합지표
 ![11](https://user-images.githubusercontent.com/88278698/127955956-d4ea8940-0651-4c8d-8913-6f5f88969e6b.JPG)
