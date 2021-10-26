@@ -31,7 +31,7 @@
 
 
 
-##3. The Beatles in Billboard
+## 3. The Beatles in Billboard
 * 1963~2018년까지 빌보드 'Hot100 chart'와 'Album200 chart를 크롤링해 점수를 매겨 원주차트로 시각화.
 > 비틀즈는 독보적 성적
 ![31](https://user-images.githubusercontent.com/88278698/127957586-8ead6191-4e80-4403-8644-3e729dc05de2.png)
@@ -46,16 +46,16 @@
 
 
 
-##4. 코로나 데이터 시각화 AI 경진대회 제출물
+## 4. 코로나 데이터 시각화 AI 경진대회 제출물
 
 
 
-##5. RGBrand
+## 5. RGBrand
 [https://rgbrand.net/]
 
 
 
-##6. K-water 한국수자원공사 빅데이터 콘테스트 제출물
+## 6. K-water 한국수자원공사 빅데이터 콘테스트 제출물
 [https://public.tableau.com/app/profile/.41053254/viz/5_16302399641630/sheet0]
 > ![image](https://user-images.githubusercontent.com/88278698/138813679-a844aabd-fcab-4243-a5b3-3b278da765ad.png)
 > ![image](https://user-images.githubusercontent.com/88278698/138813750-c43fc503-cbdc-42c2-8a7b-e931509d7964.png)
